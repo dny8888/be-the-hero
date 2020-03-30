@@ -51,7 +51,7 @@ export default function Incidents() {
           Total de <Text style={styles.headerTextBold}>{total} casos</Text>.
         </Text>
       </View>
-      <Text style={styles.title}>Bem Vindo!</Text>
+      <Text style={styles.title}>Olá, seja bem vindo!</Text>
       <Text style={styles.description}>
         Escolha um dos casos abaixo e salve o dia.
       </Text>
